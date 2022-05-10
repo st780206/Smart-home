@@ -37,7 +37,7 @@ https://blog.csdn.net/wangyx1234/article/details/107744701
 
 厨房灯带调光 人体感应点亮 环境光亮度探测 yolo人体识别
 
-
+超薄继电器
 
 
 
